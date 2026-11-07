@@ -1,54 +1,27 @@
 #EXTM3U
 
-# --- MÁS CANALES ---
+# --- DOCUMENTAL --- 
 
-#EXTINF:-1 tvg-name="Argentinísima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Canal", Argentinisima Satelital
-http://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentales", Animal Planet
+http://181.78.8.199:8000/play/a0by/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 21 TV" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Canal", Canal 21 Misiones Posadas 
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/500px-InvestigationDiscoveryLogo2020.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentales", Discovery ID
+http://181.78.79.131:8000/play/a0sl
 
-#EXTINF:-1 tvg-name="Caras TV" tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" group-title="Canal", Caras TV
-https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentales", Discovery Science
+http://181.78.79.131:8000/play/a0pb
 
-#EXTINF:-1 tvg-name="Ciudad Magazine" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true" group-title="Canal", Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/250px-Discovery_Turbo_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentales", Discovery Turbo
+http://181.78.79.131:8000/play/a0p8
 
-#EXTINF:-1 tvg-name="Ciudad Magica" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Canal", Ciudad Magica
-https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/250px-World_Discovery_HD_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentales", Discovery World
+http://181.78.79.131:8000/play/a0n8
 
-#EXTINF:-1 tvg-name="Cosmos Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/COSMOS_logo2K24-100.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Canal", Cosmos Tv
-https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1 tvg-name="History Channel" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentales", History Channel
+http://181.224.200.5:2277/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="General",Eco TV Tandil
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+#EXTINF:-1,History 2
+http://181.224.200.5:2277/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Canal", El Gourmet Arg
-https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Cooking",El Gourmet Mx
-http://190.61.101.11:7050/play/a09s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD" tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png" group-title="General",Folcloreando TV
-https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-
-# # EXTINF:-1 tvg-name="Lumpen Tv" tvg-logo="https://lumpentv.com.ar/lumpen.png" group-title="Canal", Lumpen Tv
-
-#EXTINF:-1 tvg-name="Neox TV" tvg-logo="https://play-lh.googleusercontent.com/l4X4JUxMdWiw0Joj8wu5-8eEQ6OLTwb4Rm0mZ6J1nNVND3UxqzVsesAlXCeLTaUWqgF_tBJbfnh7hBgo_VdpVA=w526-h296-rw" group-title="Canal", Neox TV
-https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-
-#EXTINF:-1 tvg-name="Senillosa TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mB0fMOvBeHjtGCFT4WT5VsIA-av_FT3-kM_2qAckYdSA=s900-c-k-c0x00ffffff-no-rj" group-title="Canal", Senillosa TV Neuquen
-https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sicardi TV" tvg-logo="https://sicarditv.com.ar/static/custom/logo-grande.png?t=2026-08-04+03%3A00%3A05.646012" group-title="Canal", Sicardi TV
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
-#EXTINF:-1 tvg-id="SoliveTV.ar@SD" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="",Solive TV
-https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telesol.ar@SD" tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="",Telesol San Juan
-https://cdn1.tvlin.net/open/telesol/playlist.m3u8
-
-# # EXTINF:-1 tvg-name="Volver" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Canal", Volver
-
-
+#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/500px-National-Geographic-Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentales", National Geographic
+http://181.78.79.131:8000/play/a0pt

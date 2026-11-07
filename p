@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-name="Azahares Radiovisual Multimedia" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Música", Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BeatsRadio.ar@SD" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Música",Beats Radio
+#EXTINF:-1 tvg-name="Beats Radio" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Música", Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 #EXTINF:-1 tvg-name="BVC" tvg-logo="https://i.imgur.com/I06TSx0.png" group-title="Música", BVC
@@ -14,7 +14,7 @@ https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 #EXTINF:-1 tvg-name="Cable Imagen Armstrong" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Música", Cable Imagen Armstrong
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Música",Cadena103.TV
+#EXTINF:-1 tvg-name="Cadena 103 TV" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Música", Cadena 103 TV
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cumbia Mix" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Música", Cumbia Mix

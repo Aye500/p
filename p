@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-name="Azahares Radiovisual Multimedia" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Música", Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="8" tvg-name="Cinco Tv Tigre" tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/BEATS-RADIO.png" group-title="General-TDA", Cinco Tv Beats Tigre
+https://videostream.shockmedia.com.ar/hls/beatsradio/beatsradio.m3u8
+
 #EXTINF:-1 tvg-id="BeatsRadio.ar@SD" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Music",Beats Radio (480p)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
@@ -13,9 +16,6 @@ https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 
 #EXTINF:-1 tvg-name="Cable Imagen Armstrong" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Música", Cable Imagen Armstrong
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="",Cadena 103 (720p)
-http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="",Cadena103.TV
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8

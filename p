@@ -23,19 +23,16 @@ https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="General",Eco TV Tandil
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Cooking",El Gourmet Arg
-http://190.61.101.11:7050/play/a09s/index.m3u8?hls
-
-#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Canal", El Gourmet Mx
+#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Canal", El Gourmet Arg
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Cooking",El Gourmet Mx
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD" tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png" group-title="General",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 
 # # EXTINF:-1 tvg-name="Lumpen Tv" tvg-logo="https://lumpentv.com.ar/lumpen.png" group-title="Canal", Lumpen Tv
-
-#EXTINF:-1 tvg-name="Neo TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Neo_TV_Florencio_Varela.png/revision/latest/scale-to-width-down/1000?cb=20250702200816" group-title="Canal", Neo TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-name="Neox TV" tvg-logo="https://play-lh.googleusercontent.com/l4X4JUxMdWiw0Joj8wu5-8eEQ6OLTwb4Rm0mZ6J1nNVND3UxqzVsesAlXCeLTaUWqgF_tBJbfnh7hBgo_VdpVA=w526-h296-rw" group-title="Canal", Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
@@ -52,6 +49,6 @@ https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesol.ar@SD" tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="",Telesol San Juan
 https://cdn1.tvlin.net/open/telesol/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Volver" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Canal", Volver
-http://138.121.113.175:8000/play/a04r/index.m3u8
+# # EXTINF:-1 tvg-name="Volver" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Canal", Volver
+
 

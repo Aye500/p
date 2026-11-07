@@ -11,9 +11,7 @@ http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 #EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="Deportes", DAZN 2 F1
 http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes", DeporTV
-http://138.59.227.20:8000/play/a07f/index.m3u8?hls
-#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV (1080p)
+#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV 
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-name="DSports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes", DSports 1
@@ -22,21 +20,21 @@ http://181.209.80.115:8000/play/dsports_hd
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 
 # ESPN 181.78.79.131
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="Deportes", ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes", ESPN
 http://181.78.79.131:8000/play/a0s7
-#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="" group-title="Deportes", ESPN 2 HD 
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes", ESPN 2
 http://181.78.79.131:8000/play/a0qj
-#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="" group-title="Deportes", ESPN 3 HD 
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes", ESPN 3
 http://181.78.79.131:8000/play/a0s6
-#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="" group-title="Deportes", ESPN 4 HD 
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes", ESPN 4
 http://181.78.79.131:8000/play/a0s9
-#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="" group-title="Deportes", ESPN 5 HD 
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes", ESPN 5 
 http://181.78.79.131:8000/play/a0s5
-#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="" group-title="Deportes", ESPN 6 HD 
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes", ESPN 6
 http://181.78.79.131:8000/play/a0s3
-#EXTINF:-1 tvg-name="ESPN 7 HD" tvg-logo="" group-title="Deportes", ESPN 7 HD
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Deportes", ESPN 7
 http://181.78.79.131:8000/play/a0s8
-#EXTINF:-1 tvg-name="Espn Premium" tvg-logo="" group-title="Deportes", Espn Premium
+#EXTINF:-1 tvg-name="Espn Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes", Espn Premium
 http://181.78.79.131:8000/play/a0r2
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes", ESPN 2

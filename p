@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="11" tvg-name="Telefe" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="General", Telefe
-http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712714.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",Telefe FHD
-http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712715.ts
-#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="General",Telefe (1080p)
-http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-name="Urban Mix" tvg-logo="" group-title="Música", Urban Mix
 https://cloud.tvomix.com/URBANMIX/index.m3u8
@@ -15,11 +9,6 @@ https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 
 #EXTINF:-1 tvg-name="Wox Tv" tvg-logo="" group-title="Música", Wox Tv
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-
-
-
-
-
 
 
 

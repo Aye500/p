@@ -7,7 +7,6 @@
 #EXTINF:-1 tvg-name="BABYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Dibujos", Baby TV
 http://181.78.8.199:8000/play/a08d/index.m3u8
 
-revisar
 #EXTINF:-1 tvg-name="Baby First" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20260612182539" group-title="Dibujos", Baby First
 http://181.78.79.131:8000/play/a0sw
 
@@ -16,34 +15,34 @@ http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 # # EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="http://vignette3.wikia.nocookie.net/mlp/images/7/76/Logo_Discovery_Kids.svg.png/revision/latest?cb=20140116151647&path-prefix=pt" group-title="Dibujos", Discovery Kids
 
-#EXTINF:-1 tvg-name="Disney Channel Latin America" tvg-logo="" group-title="Dibujos", Disney Channel Latin America
+#EXTINF:-1 tvg-name="Disney Channel Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/500px-2024_Disney_Channel_text_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Dibujos", Disney Channel LA
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="Disney Jr. Latin America South" tvg-logo="" group-title="Dibujos", Disney Jr. Latin America South
+#EXTINF:-1 tvg-name="Disney Jr. Latin America South" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1280px-2024_Disney_Jr._Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Dibujos", Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-name="Disney Jr. Latin America North HD" tvg-logo="" group-title="Dibujos", Disney Jr. Latin America North
+#EXTINF:-1 tvg-name="Disney Jr. Latin America North" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1280px-2024_Disney_Jr._Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Dibujos", Disney Jr. Latin America North
 http://181.78.14.26:4000/play/a073/index.m3u8
 
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids",El Chavo TV (720p)
+#EXTINF:-1 tvg-name="El Chavo TV" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Dibujos",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="✮CINE PREMIUM✮",HBO FAMILY
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="Dibujos",HBO Family
 http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/46153.ts
 
-#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="" group-title="Dibujos", Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Dibujos", Nickelodeon
 http://181.78.79.131:8000/play/a0qm
 
-#EXTINF:-1 tvg-id="Pakapaka.ar@SD",Pakapaka
+#EXTINF:-1 tvg-name="Pakapaka" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/500px-Paka-Paka-2025.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Dibujos",Pakapaka
 http://138.59.227.20:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="PlimPlim.ar@SD",Plim Plim 1
+#EXTINF:-1 tvg-name="Plim Plim" tvg-logo="https://images.seeklogo.com/logo-png/40/1/plim-plim-logo-png_seeklogo-402458.png" group-title="Dibujos",Plim Plim 1
 http://200.115.120.1:8000/play/ca091/index.m3u8
 
-#EXTINF:-1 tvg-id="PlimPlim.ar@SD",Plim Plim 2
+#EXTINF:-1 tvg-name="Plim Plim 2" tvg-logo="https://images.seeklogo.com/logo-png/40/1/plim-plim-logo-png_seeklogo-402458.png" group-title="Dibujos",Plim Plim 2
 http://45.70.168.162:1503/play/a02a/index.m3u8
 
-#EXTINF:-1 tvg-name="Xtrema Cartoons" tvg-logo="" group-title="Dibujos", Xtrema Cartoons
+#EXTINF:-1 tvg-name="Xtrema Cartoons" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Dibujos", Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
 

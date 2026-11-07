@@ -1,11 +1,57 @@
 #EXTM3U
 
-# --- GENERALES ---
+# --- MÁS CANALES ---
 
+#EXTINF:-1 tvg-name="Argentinísima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Canal", Argentinisima Satelital
+http://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-name="Canal Universidad HD" tvg-logo="https://png" group-title="General-TDA", Canal Universidad
-https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar&v=33&t=2&li=v_h.h.3.2.2&sid=_m3uao39H_Kd4dUPkrG_YQ&bg=!TU6lTizNAAZuJfwrTiU7AEcBdsCQk6CmysLfpgDifwQweasg2NhMcJVkyNqjfS_2nzNqmtv-W8fxYcOyWF-Ai25w-wOCOMrATapXw09ajrWU4SSofBUh8wIAAAD0UgAAAAdoAQd-ACufuw2kC6S8KVFmGe3ZlcVzt2XR1nZNY9ghCSyf38mFOIrtt2pFSGjkukAfCgAUsaIr864Px7dGi2gp4DYBnUfDaICZAh6HQDbwAotA2tvS2x2HzE634hzd_vGqwBTC1ipdAbLrYu7nHvbzuGhWS-xZBSpFHMpU6RkDlRX36ooT_eHH9zylYm-DGFE8ixAgFsUN8sEQbOkTO8z_at0czyT7ujgZVwYTXlfS5wFtGVJJctJ7JpAeSmPN1xveh2kVsZ0KdLN4w0DDQPRylY9xezzFitsdRchHdFKlq-RXV0WP5UX7yZjl-KjLB4baeoSq9MAfs1KKfoEZ82dV2pZmIXOq1f2CYbdmkouR9j9RYa9FNrqJjDbcnIQUAukoaGavt1xgPGBYRmRRPSK0Lxy27zoHrJy5BkiRqUODdsI50gynOYMHXTcUBSKOBcFG2lkJ5M7qqeAFGbwyQ-m7W6cfmT1jvylZ7FShHHOmRLJtpJGXwE7NVHDiRrZ-zUPuf0_MBxW0A4ezyFEl9jT1DyMIg9PQX5wl5i11EhfKI9Dzi3asVHnPlX8yl_p56SM5Mr3hhxDeM5ZLkbFOlusL59h3K5khH_amaT1jjaBxbRYuhhk0m8OjmlbbQhnsw0xH2gapQbp7uBwae65QROw5_lN2Qk60IR-QgnCuL3QFVSSZOY02_X5GZm0xm5TsXP0dxTKnJtbClCqmg1_ouVfFP2YNrW94mAon_5tX78WD4qBke-KUk057-LQN2ZU8R-tlQV_9m2IgnSsZOQHJxIoBq4I0xJKxUNDp7fqrse9iRfUGT3o1LIxYhw
+#EXTINF:-1 tvg-name="Canal 21 TV" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Canal", Canal 21 Misiones Posadas 
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-2tvg-chno="1" tvg-name="Canal Universidad HD" tvg-logo="https://png" group-title="General-TDA", Canal Universidad
-https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar&v=33&t=2&li=v_h.h.3.2.2&sid=s27uat3WOJ604dUP8YPjqQQ&bg=!tbalttTNAAZuJfwrTiU7AEcBdsCQk_Th0e3iy5szh95mdeZY827JIM3UZYsUurqHLeYXPh8MlDskDH8gMOW9HQN5yx4sfpYGEb5FkjoJkIHhYzA_4O_eXQIAAADUUgAAAARoAQd-ACtZ_gU3W1Y4Apk5zHcxtNuAP6DO0p_oFXbIpAa4aC0HXyDDYDOpqsKMuz-5CgCxp2RHdxG9doRH1--gbasgXxZ9k5djE0V7LY1z-KUl6cB6aYxnGlug9h9b47nDvZO-2RFMOWQyCPcYNjyZHwQxh05x003pzwljqvFvV32PcKe6YoNqWgoKBq4yGz6Qn7KUCOUbpWuW8IJfY09YCMRO6FpTBfy95E3JoGddi-OW7wk43c51MiY-0V8Gn-uob2RnXr0NAtHEdYxPJk-O-XMjts-AMh5QR3NoG-SAHZcf0PVEmQIlckps_WvSmluQp82bIu6Pp8g1xStPe8rQXWmKdWmjUKs8FnFmNuFWwlYKx6eXIqyioqBIXXehsm-LIphqdDPJ8RxuyDeGf32-954sw6CHk0Y7et2ELT4mdhyivr4vRsWUXf4iuSAAELIjRbQxLxKnsXBvVQO2Iyaj1IEwdSDBMS3LDPfACsObBnspefP0JFqMGtx-tBYcIgD9kZQyFxRSTHITcaG5a_k_qmYYkoxKGROJgf1LgoIUTStv2u8N1UcqwJsXrBsiHQCuKTcEGOt6X_pKcKZ0RljW-xeJiUjpP6MNwkN-ObIIixKME2dxjaysq1vp8HMrGlxgz3jYUXrsK9FH1zA6NfGAuVEBt7MhCrnmkxfVvwIU5vNzXZM_l0_G8_gql0Y8mlVPJVtxGm1ngnpha7VjEttfP2f2y_fJmBNffRIIMeUQcaqebxffbizgggReGak7QXUkIk5l-6ixxrI-LmyKHkZYR2-9c_SoNlGVC39CsibEFLRsO7oETSTM-HPRAqSbcgcUuXTc5_qBa_5ZSbPhcdleSpY7jUiAuOO4cqLwXmbv9mrfgiLTPLXwPFf8LMQg11Mihn5Q7ht75hJmjjCDOhffT-tmvhC4qL5ZfZ7ZkVO4DNTpNeNoucvB5C8QHelJpZv7cSHxUxRQxuEX30ojwh87ldszaakG3k6AwaPm1q8DCMpFed2_kEOROsV48rJD-8mAfIcJ0lyVsRPA7COk
+#EXTINF:-1 tvg-name="Caras TV" tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" group-title="Canal", Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ciudad Magazine" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true" group-title="Canal", Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-name="Ciudad Magica" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Canal", Ciudad Magica
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cosmos Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/COSMOS_logo2K24-100.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Canal", Cosmos Tv
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+
+#EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="General",Eco TV Tandil
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Cooking",El Gourmet Arg
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Canal", El Gourmet Mx
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD" tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png" group-title="General",Folcloreando TV
+https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
+
+# # EXTINF:-1 tvg-name="Lumpen Tv" tvg-logo="https://lumpentv.com.ar/lumpen.png" group-title="Canal", Lumpen Tv
+
+#EXTINF:-1 tvg-name="Neo TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Neo_TV_Florencio_Varela.png/revision/latest/scale-to-width-down/1000?cb=20250702200816" group-title="Canal", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-name="Neox TV" tvg-logo="https://play-lh.googleusercontent.com/l4X4JUxMdWiw0Joj8wu5-8eEQ6OLTwb4Rm0mZ6J1nNVND3UxqzVsesAlXCeLTaUWqgF_tBJbfnh7hBgo_VdpVA=w526-h296-rw" group-title="Canal", Neox TV
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+
+#EXTINF:-1 tvg-name="Senillosa TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mB0fMOvBeHjtGCFT4WT5VsIA-av_FT3-kM_2qAckYdSA=s900-c-k-c0x00ffffff-no-rj" group-title="Canal", Senillosa TV Neuquen
+https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sicardi TV" tvg-logo="https://sicarditv.com.ar/static/custom/logo-grande.png?t=2026-08-04+03%3A00%3A05.646012" group-title="Canal", Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-id="SoliveTV.ar@SD" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="",Solive TV
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesol.ar@SD" tvg-logo="https://i.imgur.com/79sTxtP.png" group-title="",Telesol San Juan
+https://cdn1.tvlin.net/open/telesol/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Volver" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Canal", Volver
+http://138.121.113.175:8000/play/a04r/index.m3u8
 
